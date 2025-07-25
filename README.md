@@ -1,44 +1,21 @@
-# Mintlify Starter Kit
+---
+icon: hand-wave
+cover: .gitbook/assets/a_f78f44c7b218645b210bcbb71cf308c1.gif
+coverY: 0
+---
 
-Use the starter kit to get your docs deployed and ready to customize.
+# Whoami
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+## Bienvenido a mi Gitbook
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+👋 Bienvenido al Libro del Hacker | Un recurso para aprender hacking ético, explotación de máquinas y desarrollo web!&#x20;
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+💻 Apasionado por la tecnología y la ciberseguridad, he creado este espacio para compartir apuntes, técnicas de explotación de máquinas, y métodos para crear tus propios proyectos dentro del mundo del hacking y la programación.
 
-## Development
+🚀 Aquí encontrarás cómo explotar máquinas proporcionadas por plataformas web, aprenderás a identificar vulnerabilidades y a utilizar herramientas que te permitirán desarrollar y entender proyectos de ciberseguridad.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+🔎 Tanto si eres principiante como si ya tienes experiencia, este sitio te ofrecerá soluciones prácticas, estrategias de aprendizaje y consejos para que puedas mejorar tus habilidades y construir tus propios entornos de prueba.
 
-```
-npm i -g mint
-```
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
 
-```
-mint dev
-```
-
-View your local preview at `http://localhost:3000`.
-
-## Publishing changes
-
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
-
-## Need help?
-
-### Troubleshooting
-
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
-
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
-- [Mintlify community](https://mintlify.com/community)
+## ¿Por dónde empezar? 🚀
